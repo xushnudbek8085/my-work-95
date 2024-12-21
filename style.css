@@ -1,0 +1,15 @@
+.a{
+    font-weight: bold;
+}
+.b{
+    text-decoration-line: overline;
+}
+.c{
+    text-decoration-line: line-through;
+}
+.d{
+    text-decoration-line: underline;
+}
+.e{
+    text-decoration-line: overline underline;
+}
